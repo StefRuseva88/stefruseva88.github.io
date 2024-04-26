@@ -43,7 +43,15 @@ section {
 section h2 {
     color: #333;
 }
+section#certificates {
+    text-align: center; /* Center-align certificate images horizontally */
+}
 
+section#certificates .certificate img {
+    width: 300px; /* Set image width to 300 pixels */
+    height: auto; /* Auto-adjust image height while maintaining aspect ratio */
+    margin-bottom: 20px; /* Add 20 pixels of margin below each image */
+}
 footer {
     text-align: center;
     margin-top: 20px;
