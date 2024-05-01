@@ -50,16 +50,16 @@ section p {
     margin-bottom: 20px; /* Add space between paragraphs */
 }
 
-section#achievements .achievements {
+section#education .education {
     text-align: center;
 }
 
-section#achievements .achievements p {
+section#education .education p {
     text-align: justify; /* Justify the paragraph text */
     margin-bottom: 20px; /* Add space below each paragraph */
 }
 
-section#achievements .achievements img {
+section#education .education img {
     display: inline-block;
     width: 300px;
     height: auto;
