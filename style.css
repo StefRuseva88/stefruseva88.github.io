@@ -54,6 +54,11 @@ section#achievements .achievements {
     text-align: center;
 }
 
+section#achievements .achievements p {
+    text-align: justify; /* Justify the paragraph text */
+    margin-bottom: 20px; /* Add space below each paragraph */
+}
+
 section#achievements .achievements img {
     display: inline-block;
     width: 300px;
