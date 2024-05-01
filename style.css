@@ -38,6 +38,7 @@ nav ul li a {
 
 section {
     margin-bottom: 20px;
+    text-align: justify; /* Align content */
 }
 
 section h2 {
@@ -46,6 +47,7 @@ section h2 {
 
 section p {
     color: #fff; /* White font color for paragraphs */
+    margin-bottom: 20px; /* Add space between paragraphs */
 }
 
 section#achievements .achievements {
