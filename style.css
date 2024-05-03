@@ -66,6 +66,12 @@ section#education .education img {
     margin-bottom: 20px;
 }
 
+section#blog {
+    float: right; /* Float the blog section to the right */
+    width: 30%; /* Set the width of the blog section */
+    margin-left: 20px; /* Add margin to separate it from other content */
+}
+
 footer {
     text-align: center;
     margin-top: 20px;
