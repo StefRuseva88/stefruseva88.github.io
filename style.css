@@ -7,13 +7,13 @@ body, h1, h2, h3, p, ul, li {
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #000; /* Black background */
+    background-color: #333; /* Black background */
     color: #fff; /* White font color */
     padding: 20px;
 }
 
 header {
-    background-color: #333; /* Dark gray header background */
+    background-color: #000; /* Dark gray header background */
     color: #fff;
     padding: 20px;
 }
@@ -70,6 +70,6 @@ footer {
     text-align: center;
     margin-top: 20px;
     padding: 10px;
-    background-color: #333; /* Dark gray footer background */
+    background-color: #000; /* Dark gray footer background */
     color: #fff;
 }
