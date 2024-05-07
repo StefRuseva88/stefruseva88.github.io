@@ -66,6 +66,25 @@ section#education .education img {
     margin-bottom: 20px;
 }
 
+/* Blog section styles */
+.blog-sidebar {
+    width: 30%; /* Adjust the width as needed */
+    float: right;
+    background-color: #444; /* Dark gray background */
+    padding: 20px;
+    color: #fff; /* White font color */
+}
+
+.blog-sidebar h3 {
+    color: #fff; /* White font color for section titles */
+}
+
+.blog-content {
+    width: 70%; /* Adjust the width as needed */
+    float: left;
+    padding: 20px;
+}
+
 footer {
     text-align: center;
     margin-top: 20px;
