@@ -67,7 +67,7 @@ section#education .education img {
 }
 
 /* Blog section styles */
-.blog-sidebar {
+section#blog.blog-sidebar {
     width: 30%; /* Adjust the width as needed */
     float: right;
     background-color: #444; /* Dark gray background */
@@ -75,11 +75,11 @@ section#education .education img {
     color: #fff; /* White font color */
 }
 
-.blog-sidebar h3 {
+section#blog.blog-sidebar h3 {
     color: #fff; /* White font color for section titles */
 }
 
-.blog-content {
+section#blog.blog-content {
     width: 70%; /* Adjust the width as needed */
     float: left;
     padding: 20px;
