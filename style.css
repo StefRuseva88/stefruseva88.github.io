@@ -3,6 +3,10 @@ body, h1, h2, h3, p, ul, li {
     padding: 0;
 }
 
+element {
+    padding: 10px; /* This will apply 10 pixels of padding to all sides */
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
