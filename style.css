@@ -1,4 +1,3 @@
-/* Reset default browser styles */
 body, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
@@ -7,13 +6,13 @@ body, h1, h2, h3, p, ul, li {
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #333; /* Black background */
-    color: #fff; /* White font color */
+    background-color: #333; 
+    color: #fff; 
     padding: 20px;
 }
 
 header {
-    background-color: #000; /* Dark gray header background */
+    background-color: #000; 
     color: #fff;
     padding: 20px;
 }
@@ -38,7 +37,7 @@ nav ul li a {
 
 section {
     margin-bottom: 20px;
-    text-align: justify; /* Align content */
+    text-align: justify; 
 }
 
 section h2 {
@@ -46,8 +45,8 @@ section h2 {
 }
 
 section p {
-    color: #fff; /* White font color for paragraphs */
-    margin-bottom: 20px; /* Add space between paragraphs */
+    color: #fff;
+    margin-bottom: 20px;
 }
 
 section#education .education {
@@ -55,8 +54,8 @@ section#education .education {
 }
 
 section#education .education p {
-    text-align: justify; /* Justify the paragraph text */
-    margin-bottom: 20px; /* Add space below each paragraph */
+    text-align: justify; 
+    margin-bottom: 20px; 
 }
 
 section#education .education img {
@@ -70,6 +69,6 @@ footer {
     text-align: center;
     margin-top: 20px;
     padding: 10px;
-    background-color: #000; /* Dark gray footer background */
+    background-color: #000; 
     color: #fff;
 }
