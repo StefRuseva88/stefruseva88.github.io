@@ -73,22 +73,3 @@ footer {
     background-color: #000; 
     color: #fff;
 }
-
-/* New styles for column section */
-.column-section {
-    display: flex;
-    flex-direction: column; /* Stack items vertically */
-    margin-top: 20px; /* Adjust margin as needed */
-}
-
-.column-section h2 {
-    color: #fff; /* Adjust color as needed */
-    text-align: left; /* Align the title to the left */
-    margin-bottom: 20px; /* Add space below the title */
-}
-
-.column-content {
-    width: 100%; /* Full width for the column */
-    padding: 10px; /* Add padding as needed */
-    box-sizing: border-box; /* Include padding in width calculation */
-}
