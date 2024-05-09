@@ -88,3 +88,28 @@ footer {
     background-color: #000; 
     color: #fff;
 }
+
+/* Add these styles to your existing CSS */
+.main-content {
+    display: flex;
+}
+
+.blog-sidebar {
+    width: 30%;
+    background-color: #444;
+    padding: 20px;
+    color: #fff;
+}
+
+.main-sections {
+    width: 70%;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main-sections > section {
+    flex: 1;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
