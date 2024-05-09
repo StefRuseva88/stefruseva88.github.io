@@ -89,9 +89,13 @@ footer {
     color: #fff;
 }
 
-/* New styles using CSS grid */
+/* New styles using Flexbox */
 .container {
-    display: grid;
-    grid-template-columns: 70% 30%; /* Adjust as needed */
-    grid-gap: 20px; /* Adjust the gap between sections */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main-content {
+    flex: 1; /* Take up remaining space */
+    margin-right: 20px; /* Adjust spacing between sections */
 }
