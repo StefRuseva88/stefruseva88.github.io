@@ -66,7 +66,14 @@ section#education .education img {
     margin-bottom: 20px;
 }
 
-/* Add these styles to your existing CSS */
+.content-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-content {
+    width: 70%;
+}
 
 #blog {
     width: 30%; /* Adjust the width as needed */
@@ -89,13 +96,3 @@ footer {
     color: #fff;
 }
 
-/* New styles using Flexbox */
-.container {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.main-content {
-    flex: 1; /* Take up remaining space */
-    margin-right: 20px; /* Adjust spacing between sections */
-}
