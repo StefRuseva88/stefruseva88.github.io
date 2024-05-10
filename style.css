@@ -50,7 +50,23 @@ section p {
     margin-bottom: 20px;
 }
 
-section#blog {
+section#education .education {
+    text-align: center;
+}
+
+section#education .education p {
+    text-align: justify; 
+    margin-bottom: 20px; 
+}
+
+section#education .education img {
+    display: inline-block;
+    width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+#blog {
     width: 30%; /* Adjust the width as needed */
     float: right;
     background-color: #444; /* Dark gray background */
@@ -62,22 +78,12 @@ section#blog {
     color: #fff; /* White font color for section titles */
 }
 
-/* Adjustments for column layout */
-section {
-    display: flex;
-    flex-direction: column;
-}
 
-.project {
-    background-color: #444;
-    padding: 20px;
-    margin-bottom: 20px;
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #000; 
     color: #fff;
 }
 
-.education {
-    background-color: #444;
-    padding: 20px;
-    margin-bottom: 20px;
-    color: #fff;
-}
