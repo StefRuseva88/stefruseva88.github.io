@@ -1,89 +1,100 @@
-body, h1, h2, h3, p, ul, li {
-    margin: 0;
-    padding: 0;
-}
-
+/* Global Styles */
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #333; 
-    color: #fff; 
-    padding: 20px;
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
+/* Navbar */
+.w3-sidebar {
+  width: 120px;
+  background: #222;
+  position: fixed;
+  z-index: 1;
+  height: 100%;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.w3-sidebar a {
+  padding: 10px;
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+  display: block;
+}
+
+.w3-sidebar a:hover {
+  background-color: #555;
+}
+
+/* Page Content */
+#main {
+  margin-left: 120px;
+}
+
+/* Header */
 header {
-    background-color: #000; 
-    color: #fff;
-    padding: 20px;
+  background-color: #333;
+  color: white;
+  padding: 100px 0;
 }
 
 header h1 {
-    margin: 0;
+  font-size: 48px;
+  margin: 0;
 }
 
-nav ul {
-    list-style: none;
+/* About Section */
+#about {
+  background-color: #f4f4f4;
+  padding: 50px 0;
 }
 
-nav ul li {
-    display: inline;
-    margin-right: 20px;
+/* Skills Section */
+.w3-wide {
+  margin-top: 20px;
 }
 
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
+.w3-white {
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-top: 10px;
 }
 
-section {
-    margin-bottom: 20px;
-    text-align: justify; 
+.w3-dark-grey {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  margin: 0;
 }
 
-section h2 {
-    color: #fff;
-    margin-bottom: 20px;
+/* Testimonials */
+.w3-padding-24 {
+  padding-top: 24px;
 }
 
-section p {
-    color: #fff;
-    margin-bottom: 20px;
+/* Portfolio Section */
+#photos {
+  background-color: #f9f9f9;
+  padding: 50px 0;
 }
 
-section#education .education {
-    text-align: center;
+/* Contact Section */
+#contact {
+  background-color: #ddd;
+  padding: 50px 0;
 }
 
-section#education .education p {
-    text-align: justify; 
-    margin-bottom: 20px; 
+.w3-section {
+  margin-top: 20px;
 }
 
-section#education .education img {
-    display: inline-block;
-    width: 300px;
-    height: auto;
-    margin-bottom: 20px;
-}
-
-#blog {
-    width: 30%; /* Adjust the width as needed */
-    float: right;
-    background-color: #444; /* Dark gray background */
-    padding: 30px;
-    color: #fff; /* White font color */
-}
-
-#blog h2 {
-    color: #fff; /* White font color for section titles */
-}
-
-
+/* Footer */
 footer {
-    text-align: center;
-    margin-top: 20px;
-    padding: 10px;
-    background-color: #000; 
-    color: #fff;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 50px 0;
 }
-
