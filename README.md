@@ -18,22 +18,22 @@ This is my personal portfolio page where I showcase my projects, skills, and exp
 - Clean and modern layout
 - Easy to navigate
 - 
-## Getting Started
+### Getting Started
 To get a local copy up and running, follow these steps.
 
-## Prerequisites
+### Prerequisites
 - A web browser (Google Chrome, Firefox, etc.)
 - Basic knowledge of HTML, CSS, and Git
 - [W3.CSS Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
 
-## Usage
+### Usage
 This project is designed to be a simple, static site. You can modify the HTML and CSS files to customize the content and appearance of your portfolio.
 
-## Customize Content
+### Customize Content
 index.html: Edit the HTML to update your personal information, projects, skills, and contact details.
 style.css: Modify the CSS to change the look and feel of your site.
 
-## Deployment
+### Deployment
 
 This site is hosted using [GitHub Pages](https://pages.github.com/). To set up your own GitHub Pages site, follow the [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages).
 
