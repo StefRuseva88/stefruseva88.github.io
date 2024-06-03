@@ -34,7 +34,11 @@ index.html: Edit the HTML to update your personal information, projects, skills,
 style.css: Modify the CSS to change the look and feel of your site.
 
 ## Deployment
-This site is hosted using [GitHub Pages](https://pages.github.com/), so check the link to make one yourself. To deploy any changes, simply push your updates to the main branch of your repository, and GitHub Pages will automatically update your site.
+
+This site is hosted using [GitHub Pages](https://pages.github.com/). To set up your own GitHub Pages site, follow the [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages).
+
+To deploy any changes to your portfolio, simply push your updates to the `main` branch of your repository. GitHub Pages will automatically rebuild and update your site with the latest changes.
+
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
