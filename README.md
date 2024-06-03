@@ -24,6 +24,7 @@ To get a local copy up and running, follow these steps.
 ## Prerequisites
 A web browser (Google Chrome, Firefox, etc.)
 Basic knowledge of HTML, CSS, and Git
+<p></p>
 [W3.CSS Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
 
 ## Usage
@@ -34,7 +35,7 @@ index.html: Edit the HTML to update your personal information, projects, skills,
 style.css: Modify the CSS to change the look and feel of your site.
 
 ## Deployment
-[GitHub Pages](https://pages.github.com/) This site is hosted using GitHub Pages, so check this link to make one yourself. To deploy any changes, simply push your updates to the main branch of your repository, and GitHub Pages will automatically update your site.
+This site is hosted using [GitHub Pages](https://pages.github.com/), so check the link to make one yourself. To deploy any changes, simply push your updates to the main branch of your repository, and GitHub Pages will automatically update your site.
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
