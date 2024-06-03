@@ -24,7 +24,6 @@ To get a local copy up and running, follow these steps.
 ## Prerequisites
 A web browser (Google Chrome, Firefox, etc.)
 Basic knowledge of HTML, CSS, and Git
-<p></p>
 [W3.CSS Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
 
 ## Usage
