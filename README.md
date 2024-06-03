@@ -40,10 +40,10 @@ This site is hosted using [GitHub Pages](https://pages.github.com/). To set up y
 To deploy any changes to your portfolio, simply push your updates to the `main` branch of your repository. GitHub Pages will automatically rebuild and update your site with the latest changes.
 
 
-## Contributing
+### Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
-## License
+### License
 Distributed under the MIT License. See LICENSE for more information.
