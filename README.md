@@ -1,6 +1,6 @@
-## My Portfolio Page
-Welcome to my portfolio page! This site is made with GitHub Pages and powered by w3.css.
-
+# My Portfolio Page
+## Welcome to my portfolio page! This site is made with GitHub Pages and powered by w3.css.
+---
 ### Table of Contents
 - About
 - Features
