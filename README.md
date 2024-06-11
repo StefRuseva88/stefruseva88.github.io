@@ -46,4 +46,4 @@ Contributions are what make the open source community such an amazing place to l
 If you have a suggestion that would make this better, please open an issue with the tag "enhancement".
 
 ### License
-Distributed under the MIT License. See LICENSE for more information.
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
