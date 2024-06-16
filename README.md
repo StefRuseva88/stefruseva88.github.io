@@ -1,5 +1,5 @@
 # My Portfolio Page
-https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white
+![image](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ## Welcome to my portfolio page! This site is made with GitHub Pages and powered by w3.css.
 ---
 ### Table of Contents
