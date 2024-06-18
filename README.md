@@ -6,14 +6,6 @@
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ## Welcome to my portfolio page! This site is made with GitHub Pages and powered by w3.css.
 ---
-### Table of Contents
-- About
-- Features
-- Getting Started
-- Usage
-- Contributing
-- License
-
 ### About
 This is my personal portfolio page where I showcase my projects, skills, and experience. The website is built using GitHub Pages and styled with w3.css.
 
