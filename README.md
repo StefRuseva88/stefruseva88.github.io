@@ -10,6 +10,11 @@
 ## About
 This is my personal portfolio page where I showcase my projects, skills, and experience. The website is built using GitHub Pages and styled with w3.css.
 
+## Features
+- Responsive design
+- Clean and modern layout
+- Easy to navigate
+
 ## Prerequisites
 - A web browser (Google Chrome, Firefox, etc.)
 - Basic knowledge of HTML, CSS, and Git
@@ -17,11 +22,6 @@ This is my personal portfolio page where I showcase my projects, skills, and exp
 ## Content
 - `index.html` Edit the HTML to update your personal information, projects, skills, and contact details.
 - `style.css` Modify the CSS to change the look and feel of your site.
-
-## Features
-- Responsive design
-- Clean and modern layout
-- Easy to navigate
 
 ## Usage
 This project is designed to be a simple, static site with Responsive web design (RWD) that aims to make web pages render well on a variety of devices and window or screen sizes from minimum to maximum display size to ensure usability and satisfaction.. You can modify the HTML and CSS files to customize the content and appearance of your portfolio. To tailor the content and appearance of your portfolio, you can choose a [W3.CSS Template](https://www.w3schools.com/w3css/w3css_templates.asp) that best suits your needs and preferences. Once selected, simply integrate the template, and your site will be ready to go.
