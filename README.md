@@ -15,9 +15,6 @@ This is my personal portfolio page where I showcase my projects, skills, and exp
 - Responsive design
 - Clean and modern layout
 - Easy to navigate
- 
-### Getting Started
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 - A web browser (Google Chrome, Firefox, etc.)
