@@ -25,7 +25,7 @@ To get a local copy up and running, follow these steps.
 - [W3.CSS Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
 
 ### Usage
-This project is designed to be a simple, static site with Responsive web design (RWD) or responsive design that aims to make web pages render well on a variety of devices and window or screen sizes from minimum to maximum display size to ensure usability and satisfaction.. You can modify the HTML and CSS files to customize the content and appearance of your portfolio.
+This project is designed to be a simple, static site with Responsive web design (RWD) that aims to make web pages render well on a variety of devices and window or screen sizes from minimum to maximum display size to ensure usability and satisfaction.. You can modify the HTML and CSS files to customize the content and appearance of your portfolio.
 
 ### Customize Content
 - `index.html` Edit the HTML to update your personal information, projects, skills, and contact details.
@@ -40,7 +40,6 @@ To deploy any changes to your portfolio, simply push your updates to the `main` 
 
 ### Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
 If you have a suggestion that would make this better, please open an issue with the tag "enhancement".
 
 ### License
