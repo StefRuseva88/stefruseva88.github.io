@@ -28,7 +28,7 @@ This project is designed to be a simple, static site with Responsive web design 
 
 ## Deployment
 
-This site is hosted using [GitHub Pages](https://pages.github.com/). To set up your own GitHub Pages site, follow the [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages).
+This site is hosted using [GitHub Pages](https://pages.github.com/). To set up your own GitHub Pages site, you need to create a special repository named <username>.github.io, where <username> is your GitHub username. Or you can simply follow the [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages).
 
 To deploy any changes to your portfolio, simply push your updates to the `main` branch of your repository. GitHub Pages will automatically rebuild and update your site with the latest changes.
 
