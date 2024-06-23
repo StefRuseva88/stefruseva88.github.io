@@ -22,10 +22,9 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 - A web browser (Google Chrome, Firefox, etc.)
 - Basic knowledge of HTML, CSS, and Git
-- [W3.CSS Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
 
 ### Usage
-This project is designed to be a simple, static site with Responsive web design (RWD) that aims to make web pages render well on a variety of devices and window or screen sizes from minimum to maximum display size to ensure usability and satisfaction.. You can modify the HTML and CSS files to customize the content and appearance of your portfolio.
+This project is designed to be a simple, static site with Responsive web design (RWD) that aims to make web pages render well on a variety of devices and window or screen sizes from minimum to maximum display size to ensure usability and satisfaction.. You can modify the HTML and CSS files to customize the content and appearance of your portfolio. You can choose one of [W3.CSS Templates](https://www.w3schools.com/w3css/w3css_templates.asp) which suits you best and you are ready to go.
 
 ### Customize Content
 - `index.html` Edit the HTML to update your personal information, projects, skills, and contact details.
