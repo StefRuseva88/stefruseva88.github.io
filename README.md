@@ -1,7 +1,5 @@
 # My Portfolio Page
 
-Welcome to my portfolio page! This site showcases my projects, skills, experience and interests. Built with [GitHub Pages](https://pages.github.com/) and powered by [W3.CSS](https://www.w3schools.com/w3css/).
-
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
@@ -12,7 +10,7 @@ Welcome to my portfolio page! This site showcases my projects, skills, experienc
 
 ## About
 
-This is my personal portfolio page where I showcase my projects, skills, and experience. The website is built using GitHub Pages and styled with W3.CSS to ensure a clean and modern design.
+Welcome to my portfolio page! This site showcases my projects, skills, experience and interests. It's built with [GitHub Pages](https://pages.github.com/) and powered by [W3.CSS](https://www.w3schools.com/w3css/).
 
 ## Features
 
