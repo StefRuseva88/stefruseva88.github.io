@@ -10,7 +10,7 @@
 
 ## About
 
-Welcome to my portfolio page! This site showcases my projects, skills, experience and interests. It's built with [GitHub Pages](https://pages.github.com/) and powered by [W3.CSS](https://www.w3schools.com/w3css/).
+Welcome to my portfolio page! This site showcases my projects, skills, experience and interests. It's built with [GitHub Pages](https://pages.github.com/) and powered by [W3.CSS](https://www.w3schools.com/w3css/)
 
 ## Features
 
