@@ -1,10 +1,10 @@
 # My Portfolio Page
 
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![GitHub](https://img.shields.io/badge/Hosted%20on-GitHub-181717.svg)](https://github.com/)
+[![W3Schools](https://img.shields.io/badge/Docs-W3Schools-4A5C6D.svg)](https://www.w3schools.com/)
+[![Font Awesome](https://img.shields.io/badge/Font%20Awesome-005C7F.svg)](https://fontawesome.com/)
+[![CSS](https://img.shields.io/badge/Made%20with-CSS-1572B6.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML](https://img.shields.io/badge/Made%20with-HTML-E34F26.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ---
 
