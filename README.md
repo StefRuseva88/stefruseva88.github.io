@@ -3,7 +3,6 @@
 [![GitHub](https://img.shields.io/badge/Hosted%20on-GitHub-181717.svg)](https://github.com/)
 [![W3Schools](https://img.shields.io/badge/Docs-W3Schools-4A5C6D.svg)](https://www.w3schools.com/)
 [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-005C7F.svg)](https://fontawesome.com/)
-[![CSS](https://img.shields.io/badge/Made%20with-CSS-1572B6.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML](https://img.shields.io/badge/Made%20with-HTML-E34F26.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ---
