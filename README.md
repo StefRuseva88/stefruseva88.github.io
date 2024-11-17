@@ -6,8 +6,6 @@
 [![HTML](https://img.shields.io/badge/Made%20with-HTML-E34F26.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/Made%20with-CSS-1572B6.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
----
-
 ## About
 
 Welcome to my portfolio page! This site showcases my projects, skills, experience and interests. It's built with [GitHub Pages](https://pages.github.com/) and powered by [W3.CSS](https://www.w3schools.com/w3css/)
