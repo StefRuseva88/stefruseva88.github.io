@@ -31,9 +31,8 @@ To view or modify this project, you'll need:
 ## Usage
 
 This project is designed as a simple, static site with responsive web design (RWD). You can:
-
-1. **Choose a Template**: Pick a [W3.CSS Template](https://www.w3schools.com/w3css/w3css_templates.asp) that fits your style and integrate it with your site.
-2. **Customize Content**: Edit the `index.html` and `style.css` files to personalize your portfolio.
+- **Choose a Template**: Pick a [W3.CSS Template](https://www.w3schools.com/w3css/w3css_templates.asp) that fits your style and integrate it with your site. 
+- **Customize Content**: Edit the `index.html` and `style.css` files to personalize your portfolio.
 
 ## Deployment
 
