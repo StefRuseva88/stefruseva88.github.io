@@ -184,22 +184,80 @@ a:hover {
     </div>
         
     <!-- Interests Section -->
-    <div class="w3-content w3-justify w3-text-grey w3-padding-34 interests" id="interests">
-        <h3 class="w3-padding-24 w3-text-light-grey">My Interests</h3>
-        <div>
-            <img src="Images/clean-environment_11742196.png" alt="Nature" class="w3-left w3-circle w3-margin-right" style="width:80px">
-            <p>Nature holds a special place in my heart, drawing me into its beauty and tranquility. Whether I'm exploring new hiking trails, submerge myself in the serenity of underwater worlds, or simply marveling at natural wonders, I find deep peace and inspiration. Volunteering with animals allows me to connect with them, enriching my appreciation for the natural world. Traveling to new destinations provides me with unique opportunities to admire diverse landscapes and cultures, fueling my passion for exploration and adventure. 🌍</p>
+<div class="w3-content w3-justify w3-text-grey w3-padding-34 interests" id="interests">
+    <h3 class="w3-padding-24 w3-text-light-grey">My Interests</h3>
+    
+    <!-- Nature Section -->
+    <div>
+        <img src="Images/clean-environment_11742196.png" alt="Nature" class="w3-left w3-circle w3-margin-right" style="width:80px">
+        <h4 class="w3-text-light-grey">Nature</h4>
+        <ul>
+            <li>🌿 Exploring serene hiking trails</li>
+            <li>🐾 Volunteering with animals</li>
+            <li>🌊 Submerging in underwater worlds</li>
+            <li>🌍 Traveling to admire diverse landscapes and cultures</li>
+        </ul>
+    </div>
+    
+    <!-- Gaming Section -->
+    <div>
+        <img src="Images/game_8458370.png" alt="Gaming" class="w3-left w3-circle w3-margin-right" style="width:80px">
+        <h4 class="w3-text-light-grey">Gaming</h4>
+        <ul>
+            <li>🎮 Exploring immersive PC and console worlds</li>
+            <li>🎲 Enjoying board games with friends and family</li>
+            <li>🧩 Challenging my mind with strategy and quest games</li>
+            <li>📖 Appreciating storytelling and gameplay mechanics</li>
+        </ul>
+    </div>
+    
+    <!-- Martial Arts Section -->
+    <div>
+        <img src="Images/taekwondo_5336680.png" alt="Martial Arts" class="w3-left w3-circle w3-margin-right" style="width:80px">
+        <h4 class="w3-text-light-grey">Martial Arts</h4>
+        <ul>
+            <li>🥋 Practicing Taekwondo for physical and mental growth</li>
+            <li>💪 Building discipline, focus, and resilience</li>
+            <li>🧘 Emphasizing inner peace and personal growth</li>
+            <li>⚖️ Maintaining balance and harmony in life</li>
+        </ul>
+    </div>
+</div>
+
+<!-- Carousel or Accordion Section (Optional for Interactivity) -->
+<div class="w3-content w3-padding-34">
+    <div class="w3-card w3-dark-grey">
+        <div class="w3-container">
+            <h4 class="w3-text-light-grey">Explore My Interests</h4>
+            <button onclick="toggleAccordion('nature')" class="w3-button w3-block w3-light-grey">Nature</button>
+            <div id="nature" class="w3-hide">
+                <p>🌿 Hiking, 🐾 Volunteering, 🌊 Underwater adventures, 🌍 Cultural travels</p>
+            </div>
+
+            <button onclick="toggleAccordion('gaming')" class="w3-button w3-block w3-light-grey">Gaming</button>
+            <div id="gaming" class="w3-hide">
+                <p>🎮 Digital gaming, 🎲 Board games, 🧩 Strategy challenges</p>
+            </div>
+
+            <button onclick="toggleAccordion('martial-arts')" class="w3-button w3-block w3-light-grey">Martial Arts</button>
+            <div id="martial-arts" class="w3-hide">
+                <p>🥋 Taekwondo, 💪 Discipline, 🧘 Inner peace, ⚖️ Balance</p>
+            </div>
         </div>
-        <div>
-            <img src="Images/game_8458370.png" alt="Gaming" class="w3-left w3-circle w3-margin-right" style="width:80px">
-            <p>Gaming is a passion that combines my love for both - board games and digital experiences. Whether it's exploring immersive PC and console worlds or enjoying the storytelling and gameplay mechanics of my favorite titles, I find joy in a variety of genres. Strategy, quest and real-world games challenge my mind and skills, providing endless enjoyment and mental stimulation. Board games also offer a fun and social experience, bringing friends and family together. 🎮</p>
-        </div>
-        <div>
-            <img src="Images/taekwondo_5336680.png" alt="Martial Arts" class="w3-left w3-circle w3-margin-right" style="width:80px">
-            <p>Martial arts, especially Taekwondo, are not just sports for me, they are practices that benefit both body and mind. The physical aspects of martial arts foster discipline, focus, strength, and resilience, while the spiritual dimension emphasizes inner peace, respect, and personal growth. This duality makes martial arts a profound and fulfilling practice, helping me maintain balance and harmony in all aspects of life. 🥋</p>
-        </div>
-    </div>    
-    <!-- End About Section -->
+    </div>
+</div>
+
+<script>
+    function toggleAccordion(id) {
+        var x = document.getElementById(id);
+        if (x.classList.contains("w3-hide")) {
+            x.classList.remove("w3-hide");
+        } else {
+            x.classList.add("w3-hide");
+        }
+    }
+</script>
+<!-- End Interests Section -->
         
     <!-- Portfolio Section -->
 <div class="w3-padding-64 w3-content" id="studies">
