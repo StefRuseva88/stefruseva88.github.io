@@ -16,7 +16,7 @@ Welcome to my portfolio page! This site showcases my projects, skills, experienc
 - **Modern Layout**: Clean and professional design.
 - **Easy Navigation**: Intuitive and user-friendly interface.
 
-## Prerequisites
+## ✅ Prerequisites
 
 To view or modify this project, you'll need:
 
