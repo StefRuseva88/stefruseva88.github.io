@@ -24,7 +24,7 @@ To view or modify this project, you'll need:
 - **`index.html`**: Update this file to change your personal information, projects, skills, and contact details.
 - **`style.css`**: Modify this file to customize the look and feel of your site.
 
-## Usage
+## 🚀 Usage
 This project is designed as a simple, static site with responsive web design (RWD). You can:
 - **Choose a Template**: Pick a [W3.CSS Template](https://www.w3schools.com/w3css/w3css_templates.asp) that fits your style and integrate it with your site. 
 - **Customize Content**: Edit the `index.html` and `style.css` files to personalize your portfolio.
