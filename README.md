@@ -45,13 +45,9 @@ This site is hosted using [GitHub Pages](https://pages.github.com/). To set up y
 To deploy updates, simply push your changes to the `main` branch, and GitHub Pages will automatically update your site.
 
 ## Contributing
-
 Contributions are what make the open source community amazing. Any contributions you make are greatly appreciated.
 
-- **Suggestions**: If you have an idea to improve this project, please open an issue with the "enhancement" tag.
-- **Pull Requests**: Feel free to fork this repository and submit pull requests for any improvements.
-
-## License
+## 📄 License
 
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
