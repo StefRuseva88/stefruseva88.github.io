@@ -29,7 +29,7 @@ This project is designed as a simple, static site with responsive web design (RW
 - **Choose a Template**: Pick a [W3.CSS Template](https://www.w3schools.com/w3css/w3css_templates.asp) that fits your style and integrate it with your site. 
 - **Customize Content**: Edit the `index.html` and `style.css` files to personalize your portfolio.
 
-## Deployment
+## 🔌 Deployment
 This site is hosted using [GitHub Pages](https://pages.github.com/). To set up your own GitHub Pages site:
 
 1. Create a repository named `<username>.github.io`, where `<username>` is your GitHub username.
