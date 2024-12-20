@@ -32,9 +32,9 @@ This project is designed as a simple, static site with responsive web design (RW
 ## 🔌 Deployment
 This site is hosted using [GitHub Pages](https://pages.github.com/). To set up your own GitHub Pages site:
 
-1. Create a repository named `<username>.github.io`, where `<username>` is your GitHub username.
-2. Push your site content to the `main` branch.
-3. Follow the [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages) for detailed instructions.
+- Create a repository named `<username>.github.io`, where `<username>` is your GitHub username.
+- Push your site content to the `main` branch.
+- Follow the [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages) for detailed instructions.
 
 To deploy updates, simply push your changes to the `main` branch, and GitHub Pages will automatically update your site.
 
