@@ -245,7 +245,9 @@ a:hover {
 </div>
 
 <!-- Contact Section -->
-  <div class="w3-padding-64 w3-content w3-text-grey" id="contact">
+<div class="w3-padding-64 w3-content w3-text-grey" id="contact" style="display: flex; align-items: flex-start; gap: 20px;">
+  <!-- Contact Info and Form -->
+  <div style="flex: 1;">
     <h2 class="w3-text-light-grey">Contact Me</h2>
     <hr style="width:200px" class="w3-opacity">
 
@@ -257,16 +259,23 @@ a:hover {
     <p>Let's get in touch. Send me a message:</p>
 
     <form action="https://formspree.io/f/mrgnvgbp" method="POST" style="max-width: 400px;">
-    <p><input class="w3-input w3-padding-8" type="text" placeholder="Name" required name="name" style="width: 100%;"></p>
-    <p><input class="w3-input w3-padding-8" type="email" placeholder="Email" required name="email" style="width: 100%;"></p>
-    <p><input class="w3-input w3-padding-8" type="text" placeholder="Subject" required name="subject" style="width: 100%;"></p>
-    <p><input class="w3-input w3-padding-8" type="text" placeholder="Message" required name="message" style="width: 100%;"></p>
-    <p>
-    <button class="w3-button w3-light-grey w3-padding-small" type="submit">
-      <i class="fa fa-paper-plane"></i> SEND MESSAGE
-    </button>
-    </p>
+      <p><input class="w3-input w3-padding-8" type="text" placeholder="Name" required name="name" style="width: 100%;"></p>
+      <p><input class="w3-input w3-padding-8" type="email" placeholder="Email" required name="email" style="width: 100%;"></p>
+      <p><input class="w3-input w3-padding-8" type="text" placeholder="Subject" required name="subject" style="width: 100%;"></p>
+      <p><input class="w3-input w3-padding-8" type="text" placeholder="Message" required name="message" style="width: 100%;"></p>
+      <p>
+        <button class="w3-button w3-light-grey w3-padding-small" type="submit">
+          <i class="fa fa-paper-plane"></i> SEND MESSAGE
+        </button>
+      </p>
     </form>
+  </div>
+
+  <!-- Image Section -->
+  <div style="flex: 1; text-align: center;">
+    <img src="Images/Software-Testing.jpg" alt="Contact Section Illustration" style="max-width: 100%; height: auto; border-radius: 10px;">
+  </div>
+</div>
 
   <!-- End Contact Section -->
       
