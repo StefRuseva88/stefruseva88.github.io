@@ -245,18 +245,21 @@ a:hover {
 </div>
 
 <!-- Contact Section -->
-  <div class="w3-padding-64 w3-content w3-text-grey" id="contact">
-    <h2 class="w3-text-light-grey">Contact Me</h2>
-    <hr style="width:200px" class="w3-opacity">
+<div class="w3-padding-64 w3-content w3-text-grey" id="contact">
+  <h2 class="w3-text-light-grey">Contact Me</h2>
+  <hr style="width:200px" class="w3-opacity">
 
-    <div class="w3-section">
-      <p><i class="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Sofia, Bulgaria</p>
-      <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> +359 898 886 332</p>
-      <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> stefruseva88@gmail.com</p>
-    </div><br>
-    <p>Let's get in touch. Send me a message:</p>
+  <div class="w3-section">
+    <p><i class="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Sofia, Bulgaria</p>
+    <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> +359 898 886 332</p>
+    <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> stefruseva88@gmail.com</p>
+  </div><br>
+  <p>Let's get in touch. Send me a message:</p>
 
-    <form action="https://formspree.io/f/mrgnvgbp" method="POST" style="max-width: 400px;">
+  <!-- Form and Image Side by Side -->
+  <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+    <!-- Form Section -->
+    <form action="https://formspree.io/f/mrgnvgbp" method="POST" style="max-width: 400px; flex: 1;">
       <p><input class="w3-input w3-padding-8" type="text" placeholder="Name" required name="name" style="width: 100%;"></p>
       <p><input class="w3-input w3-padding-8" type="email" placeholder="Email" required name="email" style="width: 100%;"></p>
       <p><input class="w3-input w3-padding-8" type="text" placeholder="Subject" required name="subject" style="width: 100%;"></p>
@@ -267,11 +270,11 @@ a:hover {
         </button>
       </p>
     </form>
-  </div>
 
-   <!-- Image Section -->
-  <div style="margin-top: 40px; text-align: center;">
-    <img src="Images/Software-Testing-Board.jpg" alt="Contact Section Illustration" style="max-width: 100%; height: auto; border-radius: 10px;">
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: center;">
+      <img src="Images/Software-Testing-Board.jpg" alt="Contact Section Illustration" style="max-width: 100%; height: auto; border-radius: 10px;">
+    </div>
   </div>
 </div>
 <!-- End Contact Section -->
