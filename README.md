@@ -19,10 +19,6 @@ To view or modify this project, you'll need:
 - A web browser (e.g., Google Chrome, Firefox)
 - Basic knowledge of HTML, CSS, and Git
 
-## 💻 Content
-- **`index.html`**: Update this file to change your personal information, projects, skills, and contact details.
-- **`style.css`**: Modify this file to customize the look and feel of your site.
-
 ## 🚀 Usage
 This project is designed as a simple, static site with responsive web design (RWD). You can:
 - **Choose a Template**: Pick a [W3.CSS Template](https://www.w3schools.com/w3css/w3css_templates.asp) that fits your style and integrate it with your site. 
